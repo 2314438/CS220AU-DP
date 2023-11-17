@@ -11,7 +11,7 @@ And [this](http://navigatingthedigitalworld.com/). is an external link to anothe
 ## Body 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
-![Plain VR map](Best Photoassets/img/vr-map-plain.svg)
+![Plain VR map](assets/img/vr-map-plain.svg)
 
 Below you see an example of embedding an image that is found in another repository:
 
