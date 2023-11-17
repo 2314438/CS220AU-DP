@@ -24,4 +24,6 @@ Below you see an example of embedding an image that is found in another reposito
 ## References
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
 
-
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
