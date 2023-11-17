@@ -6,7 +6,7 @@ keywords: Artificial Intelegence, Information technology, Hyper text markup
 ## Introduction
 [This](assessment.md) is an internal link to another page on your site. 
 
-And [this](http://navigatingthedigitalworld.com/). 
+And [this](http://navigatingthedigitalworld.com/). is an external link to another page on your site. 
 
 ## Body 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
