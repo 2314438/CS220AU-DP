@@ -12,6 +12,8 @@ And [this](http://navigatingthedigitalworld.com/). is an external link to anothe
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
+![Description]()
+
 
 Below you see an example of embedding an image that is found in another repository:
 
