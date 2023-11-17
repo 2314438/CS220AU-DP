@@ -1,5 +1,5 @@
 # How can psychedelic music be linked to AI?
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+17/11/2023 
 
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
