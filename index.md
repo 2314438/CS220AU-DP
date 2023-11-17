@@ -4,9 +4,9 @@
 keywords: Artificial Intelegence, Information technology, Hyper text markup
 
 ## Introduction
-[This](checklist.md) is an internal link to another page on your site. 
+[This](assessment.md) is an internal link to another page on your site. 
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
+And [this](http://navigatingthedigitalworld.com/. 
 
 ## Body 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
