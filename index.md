@@ -8,7 +8,7 @@ keywords: Artificial Intelegence, Information technology, Hyper text markup
 
 And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
 
-## Body Paragraph
+## Body 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
