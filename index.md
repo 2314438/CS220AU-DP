@@ -1,6 +1,6 @@
 # How can psychedelic music be linked to AI?
 17 Nov 2023, Friday
-
+keywords: Artificial Intelegence, Information technology, Hyper text markup
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
 
