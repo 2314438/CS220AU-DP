@@ -1,5 +1,5 @@
 # How can psychedelic music be linked to AI?
-17/11/2023, Friday
+17 Nov 2023, Friday
 
 ## Hyperlinks
 [This](checklist.md) is an internal link to another page on your site. 
