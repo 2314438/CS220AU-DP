@@ -1,5 +1,5 @@
 # How can psychedelic music be linked to AI?
-17 Nov 2023, Friday
+01 Dec 2023, Friday
 
 keywords: Artificial Intelegence, Information technology, Hyper text markup
 
