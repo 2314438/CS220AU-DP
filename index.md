@@ -1,10 +1,10 @@
 # How Artificial Intelligence takeover our lives?
 17 Nov 2023, Friday
 
-keywords: artificial intelligence, information technology, hyper text markup, vision, people personal & professional lives, digital entities
+keywords: artificial intelligence, information technology, the future vision, personal & professional lives, digital entities
 
 ## Introduction
-[The](assessment.md) 21st Century has seen a variety of skilled tasks partially taken by the machines, including translation, legal research and low level journalisms. 
+The 21st Century has seen a variety of skilled tasks partially taken by the machines, including translation, legal research and low level journalisms. 
 
 And [this](http://navigatingthedigitalworld.com/). is an external link to another page on your site. 
 
