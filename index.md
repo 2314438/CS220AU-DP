@@ -1,7 +1,7 @@
 # How Artificial Intelligence takeover our lives?
 17 Nov 2023, Friday
 
-keywords: Artificial Intelligence, Information technology, Hyper text markup, Vision
+keywords: artificial intelligence, information technology, hyper text markup, vision, people personal & professional lives, 
 
 ## Introduction
 [The](assessment.md) 21st Century has seen a variety of skilled tasks partially taken by the machines, including translation, legal research and low level journalisms. 
