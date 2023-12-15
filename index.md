@@ -1,5 +1,5 @@
 # How Artificial Intelligence takeover our lives?
-15 Dec 2023, Friday
+17 Nov 2023, Friday
 
 keywords: Artificial Intelligence, Information technology, Hyper text markup, Vision
 
