@@ -4,7 +4,7 @@
 keywords: Artificial Intelegence, Information technology, Hyper text markup
 
 ## Introduction
-[The](assessment.md) is an internal link to another page on your site. 
+[The](assessment.md) 21st Century has seen a variety of skilled tasks partially taken by the machines, including translation, legal research and low level journalisms. 
 
 And [this](http://navigatingthedigitalworld.com/). is an external link to another page on your site. 
 
