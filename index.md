@@ -1,4 +1,4 @@
-# How Artificial Intelligence takeover our lives?
+# AI's Invitable Rise: A revolution in the personal and professional Lives.
 17 Nov 2023, Friday
 
 keywords: artificial intelligence, information technology, the future vision, personal & professional lives, digital entities
