@@ -12,7 +12,13 @@ And [this](http://navigatingthedigitalworld.com/). is an external link to anothe
 The Reformed Professional Landscape
 
 A. Automation and Job displacement
+
 Automationg regular processes across industries, artificial intelligence (AI) has brought in a new era of efficiency. While productivity is increased by this efficiency, job displacement is also an issue. Repetetive and manual jobs are increasingly being taken over by AI- powered machines, leac=ving a growing number of individuals unemployed. 
+
+B. Better ability to make Decisions
+
+Large-scale data processing, patteren recoginition, and insight generations are all areas in which AI system thrives. This skill sopports decision-makers in professional contexts by offering usefull data for problem-solving and startegic planning. However, depending too much on AI to make decisions present moral questions because biases algorithms have the potential to worsenand sustain social injustices.
+
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
