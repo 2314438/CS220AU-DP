@@ -51,12 +51,6 @@ C. Concerns about Security and Privacy
 
 Privacy becomes a crucial concern when AI systems gather and evaluate enormous volumes of personal data on a constantly. Strong laws and moral frameworks are needed to strike a balance between utilizing AI's advantages and protecting people's privacy. In order to stop illegal access and improper use of private data, security measures must also be put in place. 
 
-Conclusion
-
-Our personal and professional lives have undoubtedly changed as a result of the development of AI. Though the integration of AI results in previously unheared-of efficiency and conveniences, it also poses difficult problems that need careful thought and proactive action. A collaborative effort involving corporations, individuals, and government is necessary to strike a balance between utilizing AI's promise and reducing its adverse effects. We cannot guarantee that AI will be a force for good in our quickly changing environment unless we adopt it responsibly and morally.
-
-
-
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
 
 ![Plain VR map](assets/img/vr-map-plain.svg)
@@ -68,7 +62,7 @@ Below you see an example of embedding an image that is found in another reposito
 ![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/11AI-Prediction-illo-videoSixteenByNine3000.jpg). 
 
 ## Conclusion  
-
+Our personal and professional lives have undoubtedly changed as a result of the development of AI. Though the integration of AI results in previously unheared- of efficiency and conveniences, it also poses difficult problems that need careful thought and proactive action. A collaborative efforts involving corporations, individuals, and government is necessary to strike a balance between utilizing AI's promise and reducing its adverse effects. We cannot guarantee that AI will be a force for good in our quickly changing environment unless we adopt it responsibly and morally.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## References
