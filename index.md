@@ -65,7 +65,7 @@ Below you see an example of embedding an image that is found in this repository'
 
 Below you see an example of embedding an image that is found in another repository:
 
-![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/istockphoto-1877876737-1024x1024.jpg). 
+![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/11AI-Prediction-illo-videoSixteenByNine3000.jpg). 
 
 ## Conclusion  
 
