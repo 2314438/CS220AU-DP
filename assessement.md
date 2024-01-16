@@ -49,11 +49,11 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
-| 1.2       |     |     |     |  o  |     |
+| 1.1       |     |     |     |  o  |     |
+| 1.2       |     |  o  |     |     |     |
 | 2.1       |     |     |  o  |     |     |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |  o  |     |     |
 
 The text is very well structured, organized and easy to understand. Also, each item is supported by multiple examples. The text is easy to read with line breaks, but still it is difficult to read. So, my suggestion is you can visit the page of GitHub Docs and use some ways to make the text more readable. For example, make a small title with bold letters, underling of important parts, and put images related to your essay. It may also be possible to put a link in text. If so, it could be made more readable. You could write a summary of the advantages and disadvantages of artificial intelligence (AI). I think it is better to change the title from body to other because this section is your main part of this essay so you can put sentences including what you will mention in this part. Part 2 could be written more depth. It consists only of an explanatory section and doesn’t mention about how to address those things compared to Part 1. It would be better to include solutions to those concerns. Your Readme is very good. It is simple and well organized so I can understand easily what you did through log and tasks. 
 Overall, the writing is well structured and good both essays and Readme, but from the point of view of a blog, it lacks a little in easy to read. I think it would be very good if the text were structured using by some methods.
