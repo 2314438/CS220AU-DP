@@ -8,8 +8,7 @@ The way we work and live has been completely transformed by artificial intellige
 
 ![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/11AI-Prediction-illo-videoSixteenByNine3000.jpg) 
 
-## Body 
-The Reformed Professional Landscape
+## The Reformed Professional Landscape
 
 ## A. Automation and Job Displacement
 
