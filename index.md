@@ -11,7 +11,7 @@ The way we work and live has been completely transformed by artificial intellige
 ## Body 
 The Reformed Professional Landscape
 
-A. Automation and Job displacement
+A. Automation and Job Displacement
 
 Automating regular processes across industries, artificial intelligence (AI) has brought in a new era of efficiency. While this efficiency increases productivity, job displacement is also an issue. Repetitive and manual jobs are increasingly being taken over by AI-Powered machines, leaving a growing number of individuals unemployed. 
 
@@ -19,7 +19,7 @@ The speed increase of man-made reasoning across numerous ventures flags another 
 
 All the more comprehensively, the ascent of man-made reasoning propels inquiries around the way of thinking of maintaining and sources of income as the kind of revenue, nobility, and reason. With innovation opening plentiful material success, maybe tying essential expectations for everyday comforts absolutely to human business is obsolete. Testing thoughts like general essential pay that gives financial security independent of occupation might better convey gains from artificial intelligence proficiency. Reexamining the balance between fun and serious activities as mechanizations handle more drudgery could likewise permit individuals to broaden character past vocations into expressions, connections, and self-completion.
 
-B. Better ability to make Decisions
+B. Better Ability to make Decisions
 
 Large-scale data processing, pattern recognition, and insight generations are all areas in which AI system thrives. This skill supports decision-makers in professional contexts by offering useful data for problem-solving and strategic planning. However, depending too much on AI to make decisions presents moral questions because biased algorithms have the potential to worsen and sustain social injustices.
 
