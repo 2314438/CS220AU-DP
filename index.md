@@ -67,7 +67,7 @@ C. Concerns about Security and Privacy
 Privacy becomes a crucial concern when AI systems gather and evaluate enormous volumes of personal data constantly. Strong laws and moral frameworks are needed to strike a balance between utilizing AI's advantages and protecting people's privacy. In order to stop illegal access and improper use of private data, security measures must also be put in place. 
 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
-![] (https://github.com/2314438/CS220AU-DP/blob/main/assets/img/vr-map-2023.png)
+![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/vr-map-2023.png)
 
 ## Conclusion  
 Our personal and professional lives have undoubtedly changed as a result of the development of AI. Though the integration of AI results in previously unheared of efficiency and conveniences, it also poses difficult problems that need careful thought and proactive action. A collaborative effort involving corporations, individuals, and government is necessary to strike a balance between utilizing AI's promise and reducing its adverse effects. We cannot guarantee that AI will be a force for good in our quickly changing environment unless we adopt it responsibly and morally.
