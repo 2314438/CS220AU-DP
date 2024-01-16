@@ -28,10 +28,14 @@ Constract an essay (the webpage) around my current research question draft (How 
 
 ## Log
 
-2024-01-11 I saw Kris to help understand how I can fasten up my progress with finishing my portfolio. 
+2024-01-11 I saw Kris to help understand how I can fasten up my progress with finishing my portfolio.
 
-2023-10-?
+2024-01-15 I discussed my concerns regarding assignments and Kris helped me to get it resolved.
 
-2023-10-??
+2024-12-08 Kris explained how we can do self and Peer assessement for the assignment. 
 
-2023-10-17 I attended my first class. The reasons for not attending classes beforehand are linked to timetable clashes. 
+2023-12-01 I selected my digital portfolio topic and started working on it.
+
+2023-11-24 I started learning about the GitHub and attended other students presentations.
+
+2023-11-17 I attended my first class. The reasons for not attending classes beforehand are linked to timetable clashes. 
