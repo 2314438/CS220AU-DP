@@ -94,4 +94,3 @@ Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age: Work, Progress, a
 Ford, M. (2015). Rise of the Robots: Technology and the Threat of a Jobless Future. Basic Books.
 Davenport, T. H., & Kirby, J. (2016). Only Humans Need Apply: Winners and Losers in the Age of Smart Machines. Harper Business.
 
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
