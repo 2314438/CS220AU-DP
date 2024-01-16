@@ -90,3 +90,12 @@ Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age: Work, Progress, a
 Ford, M. (2015). Rise of the Robots: Technology and the Threat of a Jobless Future. Basic Books.
 Davenport, T. H., & Kirby, J. (2016). Only Humans Need Apply: Winners and Losers in the Age of Smart Machines. Harper Business.
 
+Arntz, M., Gregory, T., & Zierahn, U. (2016). The Risk of Automation for Jobs in OECD Countries: A Comparative Analysis. OECD Social, Employment, and Migration Working Papers, No. 189.
+
+Chui, M., Manyika, J., & Miremadi, M. (2016). Where Machines Could Replace Humans—and Where They Can’t (Yet). McKinsey Quarterly.
+
+"Artificial Intelligence as Structural Estimation: Economic Interpretations of Deep Blue, Bonanza, and AlphaGo Zero" by Seth G. Benzell and Ajay Agrawal in the National Bureau of Economic Research.
+
+Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies.
+
+Davenport, T. H., & Harris, J. (2017). Only Humans Need Apply: Winners and Losers in the Age of Smart Machines.
