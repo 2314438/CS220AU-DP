@@ -44,7 +44,7 @@ Artificial Intelligence (AI) algorithms have a big say in how the digital object
 
 The VR Map is:
 
-![](assets/img/vr-map-2023.png) 
+![](https:2314438.github.io/CS220AU-DP/assets/img/vr-map-2023.png) 
 
 ## III. Existential Risks: Navigating the Shadows of Innovation:
 
