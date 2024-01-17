@@ -42,7 +42,7 @@ AI is a key component of personalized medicine, treatment regimens, and diagnosi
 
 Artificial Intelligence (AI) algorithms have a big say in how the digital objects that make up our social media environments are shaped, weaving a complex web of linked data and user experiences. These algorithms help create the online personalities, groups, virtual interaction that characterise our online presence by adapting to user behaviours and preferences. Existential risks are associated with this interaction between AI algorithms and digital entities, which also improves social media engagement and personalisation. The danger is in the possibility that extreme opinions could be algorithmically reinforced, resulting in echo chambers that keep people from seeing things from different angles. Concerns over social media's effect on mental health and the breakdown of real human connections are raised by its addictive qualities, which are supported by AI algorithms meant to maximize user engagement. 
 
-![] (https://github.com/2314438/CS220AU-DP/blob/main/assets/img/vr-map-plain.svg) 
+![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/vr-map-plain.svg) 
 
 ## III. Existential Risks: Navigating the Shadows of Innovation
 
