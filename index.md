@@ -1,7 +1,7 @@
 # AI's Inevitable Rise: A Revolution In The Personal and Professional Lives.
 17 Nov 2023, Friday
 
-![An AI generated image where AI capturing our whole life](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/ARTIFICIAL%20INTELLIGENCE.webp)
+![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/ARTIFICIAL%20INTELLIGENCE.webp)
 
 Keywords: Artificial Intelligence, Digital Entities, Existential Risks, Personal Lives, Professional Lives, Automation, Digital Workforce, Privacy Concerns, Security Risks, Wearable Technologies, Data Driven Decision-Making, Smart Homes, Personal Assistants, Healthcare, Social Media, Bias and Discrimination.
 
