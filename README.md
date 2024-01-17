@@ -27,6 +27,11 @@ Constract an essay (the webpage) around my current research question draft (How 
 6. Download the checklist file and submit it (only this one) on FASER. 
 
 ## Log
+2024-01-17 I completed checklist and submitted my assignment.
+
+2024-01-16 I done with self and peer assessement. 
+
+2024-01-12 I listed my keywords and started work on my assignment and 20% done by the end of the day.
 
 2024-01-11 I saw Kris to help understand how I can fasten up my progress with finishing my portfolio.
 
