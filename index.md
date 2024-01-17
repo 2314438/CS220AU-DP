@@ -6,7 +6,7 @@ Keywords: Artificial Intelligence, Automation, Job Displacement, Decision-Making
 ## Introduction
 The way we work and live has been completely transformed by artificial intelligence (AI), which has emerged as a transformative force. AI has been more and more ingrained in both our personal and professional lives in recent years. This essay demonstrates the significant effects of AI on both aspects, examining the benefits and drawbacks of this technological revolution.  
 
-![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/11AI-Prediction-illo-videoSixteenByNine3000.jpg) 
+![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/ARTIFICIAL%20INTELLIGENCE.webp)) 
 
 ## The Reformed Professional Landscape
 
