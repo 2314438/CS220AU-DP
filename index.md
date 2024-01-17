@@ -1,12 +1,12 @@
 # AI's Inevitable Rise: A Revolution In The Personal and Professional Lives.
 17 Nov 2023, Friday
 
+![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/ARTIFICIAL%20INTELLIGENCE.webp)
+
 Keywords: Artificial Intelligence, Digital Entities, Automation, Job Displacement, Decision-Making, Work Dynamics, Remote Work, Smart Homes, Personal Assistants, Healthcare  Social Media, Algorithms and Bias.
 
 ## Introduction
 The way we work and live has been completely transformed by artificial intelligence (AI), which has emerged as a transformative force. AI has been more and more ingrained in both our personal and professional lives in recent years and deeply connected to the rise of digital entities. Even while this integration has never-before-seen benifits, there are existential risksthat come with this technological paradigm change that could have a significant impact on the very fabric of human existence. These risks must be recognised and addressed. So This essay demonstrates the significant effects of AI on both aspects, examining the benefits and drawbacks of this technological revolution.  
-
-![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/ARTIFICIAL%20INTELLIGENCE.webp)
 
 ## The Reformed Professional Landscape:
 
