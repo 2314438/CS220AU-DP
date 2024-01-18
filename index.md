@@ -6,7 +6,7 @@
 Keywords: Artificial Intelligence, Digital Entities, Existential Risks, Personal Lives, Professional Lives, Automation, Digital Workforce, Privacy Concerns, Security Risks, Wearable Technologies, Data-Driven Decision-Making, Smart Homes, Personal Assistants, Healthcare, Social Media, Bias and Discrimination.
 
 ## Introduction
-The way we work and live has been completely transformed by artificial intelligence (AI), which has emerged as a transformative force. AI has been more and more ingrained in both our personal and professional lives in recent years and deeply connected to the rise of digital entities. Even while this integration has never-before-seen benefits, there are existential risks that come with this technological paradigm change that could have a significant impact on the very fabric of human existence. These risks must be recognized and addressed. This essay demonstrates the significant effects of AI on both aspects, examining the benefits and drawbacks of this technological revolution.  
+The way we work and live has been completely transformed by artificial intelligence (AI), which has emerged as a transformative force. AI has been more and more ingrained in both our personal and professional lives in recent years and deeply connected to the rise of digital entities. Even while this integration has never-before-seen benefits, there are existential risks that come with this technological paradigm change that could have a significant impact on the very fabric of human existence. These risks must be recognized and addressed. This essay demonstrates the significant effects of AI on both aspects, examining the benefits and drawbacks of this technological revolution. 
 
 ## I The Reformed Professional Landscape:
 
@@ -44,7 +44,7 @@ Artificial Intelligence (AI) algorithms have a big say in how the digital object
 
 The VR Map is:
 
-![](https://github.com/2314438/CS220AU-DP/blob/main/assets/img/vr-map-plain.web)
+![](assets/img/vr-map-plain.svg)
 
 ## III. Existential Risks: Navigating the Shadows of Innovation:
 
